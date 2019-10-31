@@ -1,0 +1,11 @@
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.csprojAssemblyReference.cache
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.AssemblyInfoInputs.cache
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.AssemblyInfo.cs
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.exe
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.deps.json
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.runtimeconfig.json
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.runtimeconfig.dev.json
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.dll
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.pdb
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.dll
+C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.pdb

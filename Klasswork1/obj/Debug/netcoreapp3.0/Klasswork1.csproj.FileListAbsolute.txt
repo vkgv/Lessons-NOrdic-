@@ -9,3 +9,8 @@ C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klass
 C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\bin\Debug\netcoreapp3.0\Klasswork1.pdb
 C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.dll
 C:\Users\lrmvgl\source\repos\Klasswork1\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.pdb
+C:\Users\lrmvgl\Lessons-NOrdic-\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.csprojAssemblyReference.cache
+C:\Users\lrmvgl\Lessons-NOrdic-\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.AssemblyInfoInputs.cache
+C:\Users\lrmvgl\Lessons-NOrdic-\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.AssemblyInfo.cs
+C:\Users\lrmvgl\Lessons-NOrdic-\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.dll
+C:\Users\lrmvgl\Lessons-NOrdic-\Klasswork1\obj\Debug\netcoreapp3.0\Klasswork1.pdb

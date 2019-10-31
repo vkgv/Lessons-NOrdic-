@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lrmvgl\\source\\repos\\Klasswork1\\Klasswork1\\Klasswork1.csproj",
+      "projectUniqueName": "C:\\Users\\lrmvgl\\Lessons-NOrdic-\\Klasswork1\\Klasswork1.csproj",
       "projectName": "Klasswork1",
-      "projectPath": "C:\\Users\\lrmvgl\\source\\repos\\Klasswork1\\Klasswork1\\Klasswork1.csproj",
+      "projectPath": "C:\\Users\\lrmvgl\\Lessons-NOrdic-\\Klasswork1\\Klasswork1.csproj",
       "packagesPath": "C:\\Users\\lrmvgl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lrmvgl\\source\\repos\\Klasswork1\\Klasswork1\\obj\\",
+      "outputPath": "C:\\Users\\lrmvgl\\Lessons-NOrdic-\\Klasswork1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lrmvgl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,8 +13,8 @@ namespace Lesson2
             string S2 = Console.ReadLine();
             int b = int.Parse(S2);
             Console.WriteLine("{0}+{1}={2}", a, b, a + b);
-            Console.WriteLine("{0}+{1}={2}", a, b, a - b);
-            Console.WriteLine("{0}+{1}={2}", a, b, a * b);
+            Console.WriteLine("{0}-{1}={2}", a, b, a - b);
+            Console.WriteLine("{0}*{1}={2}", a, b, a * b);
             Console.ReadKey();
         }
     }
